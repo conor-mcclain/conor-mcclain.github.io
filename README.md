@@ -11,11 +11,11 @@
 - This is a game where you the player has to guess the number of ducks that is randomly generated. After you guess, it will display the number of ducks and tell you if you were right or not.
 ##Weather Data Visualizer
 
-###Chicago Illinois Weather Data Visualization
+### Chicago Illinois Weather Data Visualization
 <img width="1230" height="1043" alt="Screenshot 2025-10-10 145633" src="https://github.com/user-attachments/assets/e7d5e253-8cbd-47e8-accf-2fecc1f0bcab" />
 - This is a bar graph style visualization of the weather in Chicago.
 
-###Dallas Texas Weather Data Visualization
+### Dallas Texas Weather Data Visualization
 <img width="1237" height="859" alt="Screenshot 2025-10-15 170557" src="https://github.com/user-attachments/assets/f645d901-e1fa-4875-be01-88183838875b" />
 - This is a bar graph style visualization of the weather in Dallas.
 
