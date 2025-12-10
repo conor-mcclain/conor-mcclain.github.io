@@ -21,4 +21,5 @@
 
 ### Detecting Image Subject
 <img width="650" height="879" alt="Screenshot 2025-11-21 125534" src="https://github.com/user-attachments/assets/d99d9903-15d4-4efa-acc7-6f2de9188736" />
+
 - This is a program that will detect the subject of any image to the best of its ability.
